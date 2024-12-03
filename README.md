@@ -10,7 +10,7 @@
       Currently diving deeper into frontend development, UX and UI and building projects that make complex ideas simple.
 - 📫 How to reach me - cscardina88@gmail.com
 - ⚡ Fun fact about me - 
-      I could spend hours philosophizing about dystopian societies but I'm also the first to grab controller and build a pixel-perfect world 🌌.
+      Despite I could spend hours philosophizing about dystopian societies (yes, maybe I'm pretty obsessed 🚩) but I'm also the first to grab controller and build a pixel-perfect world 🌌.
 
 <!---
 ClaudiaS-GitKnot/ClaudiaS-GitKnot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
